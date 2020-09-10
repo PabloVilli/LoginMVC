@@ -1,0 +1,7 @@
+C:\Users\dsa5\documents\visual studio 2013\Projects\Protecto1\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\dsa5\documents\visual studio 2013\Projects\Protecto1\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\dsa5\documents\visual studio 2013\Projects\Protecto1\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\dsa5\documents\visual studio 2013\Projects\Protecto1\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\dsa5\documents\visual studio 2013\Projects\Protecto1\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\dsa5\documents\visual studio 2013\Projects\Protecto1\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\dsa5\documents\visual studio 2013\Projects\Protecto1\CapaNegocio\obj\Debug\CapaNegocio.pdb
